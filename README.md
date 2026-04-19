@@ -128,7 +128,7 @@ Early development. The architecture and detection model are designed. Implementa
 
 Airlock is designed for self-hosted deployment. No data leaves the host; inspection runs entirely in-process. A managed cloud option is planned for teams that prefer not to operate the proxy directly.
 
-→ **[Airlock Cloud](https://airlock.co)** — managed deployment, coming soon.
+→ **[Airlock Cloud]** — managed deployment, coming soon.
 
 ---
 
@@ -148,4 +148,4 @@ AGPL-3.0. Free to use and self-host. See [LICENSE](LICENSE) for details.
 
 ---
 
-*[@bdhobson](https://github.com/bdhobson) · [airlock.co](https://airlock.co)*
+*[@bdhobson](https://github.com/bdhobson) *
